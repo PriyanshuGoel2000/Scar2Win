@@ -7,5 +7,5 @@ Steps to use the app
 3.	accept the terms and conditions, and then click on Register.
 4.	Close the Register tab and login.
 5.	add your username, phone number and password, press login.
-6.	add otp , if otp is correct then you will be taken to the login screen.
+6.	add otp , if otp is correct then you will be taken to the home screen.
 
